@@ -1,1 +1,1 @@
-In this Lab perfomed aggregate functions Sumif cunctions count id functions to calculate regionwise sales and proffit.
+In this Lab perfomed aggregate functions Sumif and countif functions to calculate regionwise sales and proffit.
